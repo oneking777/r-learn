@@ -1,0 +1,1 @@
+INSERT INTO `ih_area_info` VALUES (NULL,NULL,17,'东城区'),(NULL,NULL,18,'西城区'),(NULL,NULL,19,'朝阳区'),(NULL,NULL,20,'海淀区'),(NULL,NULL,21,'昌平区'),(NULL,NULL,22,'丰台区'),(NULL,NULL,23,'房山区'),(NULL,NULL,24,'通州区'),(NULL,NULL,25,'顺义区'),(NULL,NULL,26,'大兴区'),(NULL,NULL,27,'怀柔区'),(NULL,NULL,28,'平谷区'),(NULL,NULL,29,'密云区'),(NULL,NULL,30,'延庆区'),(NULL,NULL,31,'石景山区');

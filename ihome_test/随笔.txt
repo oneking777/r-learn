@@ -1,0 +1,10 @@
+
+
+切记，切记切记！！！
+一定要把蓝图注册到app
+
+
+
+https://openapi.alipaydev.com/gateway.do?app_id=2016101000651833&biz_content=%7B%22out_trade_no%22%3A2%2C%22product_code%22%3A%22QUICK_WAP_PAY%22%2C%22total_amount%22%3A%22560.0%22%2C%22subject%22%3A%22%5Cu7231%5Cu5bb6%5Cu79df%5Cu623f+2+%22%7D&charset=utf-8&method=alipay.trade.wap.pay&return_url=http%3A127.0.0.1%3A5000%2Forders.html&sign_type=RSA2&timestamp=2019-07-22+08%3A58%3A07&version=1.0&sign=qgKpCQB54ZuVWVsW1TmKPZxZkO%2By2MmWSWGkpDoW4rW4D8tvPlg7n79aUo7hMflPbpeVMdz9OkNqNHm2S8V7ros%2FQgg%2FfTRJ2TJX%2BCg6asnzhZH8FHmwbLE5iGE%2BptdXo%2Fc%2Bjs3Ev8jaPu%2Bp14MUIB3v2t5oUp0waS8Fr4TpmvZYn8WKinxFK1i3Ag6UccVMFrvJ0tpwFqqV546NG2n6GNyxOsSISyhcaDJnDHpcwn5PLYZoe%2FdbQFvOrcl4lfHMAIdv2LmXAwXV2eX2yLz0cvBxZY6xrZK0F4Q4epIPNWEFJUHs3lV7FHJX96SqlrPfZzdBwbcUaFcPq1AGjfWF2Q%3D%3D
+
+rwerae4843@sandbox.com
